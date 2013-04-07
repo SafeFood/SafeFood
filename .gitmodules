@@ -1,0 +1,3 @@
+[submodule "SafeFood-Android"]
+	path = SafeFood-Android
+	url = https://github.com/ctrampnau/SafeFood-Android.git
