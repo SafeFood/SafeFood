@@ -1,3 +1,7 @@
 [submodule "SafeFood-Android"]
 	path = SafeFood-Android
 	url = https://github.com/SafeFood/SafeFood-Android.git
+
+[submodule "SafeFood-iOS"]
+	path = SafeFood-iOS
+	url = https://github.com/SafeFood/SafeFood-iOS.git
